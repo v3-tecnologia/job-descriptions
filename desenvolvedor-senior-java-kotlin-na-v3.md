@@ -121,7 +121,7 @@ Estamos contratando no modelo de trabalho **CLT**;
 
 1. **Envio do e-mail** - [Como devo aplicar?](#como-devo-aplicar)
 2. **Entrevista de introdução (30 min)** - Será uma breve entrevista para que possamos nos conhecer melhor;
-3. **Avaliação Técnica (Async)** - Será enviado um teste em níveis. Este é um teste com um desafio bastante parecido com os que você encontrara no dia a dia da V3;
+3. **Avaliação Técnica (Async) - SE NECESSÁRIO!** - Será enviado um teste em níveis. Este é um teste com um desafio bastante parecido com os que você encontrara no dia a dia da V3;
    1. 🚨 **IMPORTANTE** - Se você possui algum repositório ou projeto público que corresponda ao desafio, então você não precisará submeter o código, apenas enviar quais são os projetos que correspondem ao desafio!
 4. **Conversa com o CTO (30~45min)** - Nosso CTO quer te conhecer melhor!
 5. **Conhecendo o Time (30min)** - Conversa com as pessoas do time que você irá trabalhar;
