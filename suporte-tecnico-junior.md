@@ -20,7 +20,7 @@ Conheça mais detalhes em nosso site: https://v3.com.br
 
 Na V3 temos um time multidisciplinar, e você terá uma ampla variedade de responsabilidades, incluindo:
 
-- Prestar atendimento técnico de segundo nível para clientes internos e externos
+- Prestar atendimento técnico para clientes internos e externos
 - Preparar os equipamentos para entrega aos clientes
 - Realizar diagnóstico e troubleshooting de equipamentos (câmeras embarcadas, sensores, conectividade)
 - Acompanhar e documentar chamados técnicos via ferramentas de suporte
