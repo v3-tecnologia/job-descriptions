@@ -15,7 +15,7 @@ Fique a vontade para explorar cada uma das posições descritas em seus arquivos
 - [Desenvolvedor Pleno Backend](./desenvolvedor-pleno-backend.md)
 - [Desenvolvedor Pleno Android Embarcado](./desenvolvedor-pleno-android-embarcado.md)
 - [Desenvolvedor Sênior Java/Kotlin](./desenvolvedor-senior-java-kotlin.md)
-- [Suporte Técnico Júnior](./suporte-tecnico-junior.md)
+- [Analista de Suporte Técnico Júnior](./analista-suporte-tecnico-junior.md)
 - [Tech Lead Android Embarcado](./tech-lead-android-embarcado.md)
 - [Tech Lead Backend](./tech-lead-backend.md)
 
