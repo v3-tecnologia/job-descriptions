@@ -96,7 +96,6 @@ Estamos contratando no modelo de trabalho **CLT**;
 - **Licença maternidade** - Nossas colaboradoras quando se tornam mães têm direito a estender a licença maternidade por mais 2 meses, totalizando 6 meses de licença maternidade;
 - **Licença paternidade** - Os pais tem o direito de estender de 5 para 20 dias a licença paternidade;
 - **Plano de Saúde (Unimed)** - A empresa arca com 100% da mensalidade dos colaboradores e dependentes (legais e diretos, ex: cônjuge por lei e filhos) e o colaborador é responsável pelo pagamento da coparticipação (exames, consultas e demais procedimentos).
-  - **Caso você seja de SP (Bradesco)** - A empresa arca com 100% da mensalidade dos colaboradores e dependentes (legais e diretos, ex: cônjuge por lei e filhos) e o colaborador é responsável pelo pagamento da coparticipação (exames, consultas e demais procedimentos) que são descontados em folha de pagamento conforme utilização. Para esse benefício a coparticipação é de 30% do valor do procedimento;
 - **Day Off Aniversário** - Todos os colaboradores têm direito a uma folga sem desconto no banco de horas por ter feito aniversário;
 - **Volta às aulas** - Sabemos que a volta às aulas é um período de muitos gastos na vida dos pais, por isso, para ajudar nossos colaboradores nessa missão, creditamosum valor especial no cartão Flash;
 - **Convênio com SESC** - Disponível para todos os colaboradores que tiverem interesse, o convênio dá descontos em atividades do SESC e em sua rede hoteleira em todo o Brasil;
