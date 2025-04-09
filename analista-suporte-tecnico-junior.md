@@ -46,7 +46,7 @@ Trabalhamos com a linguagem **Python** no desenvolvimento da ferramenta de prepa
 
 ## 📸 Quem é você?
 
-Procuramos pessoas com fortes habilidades em desenvolvimento de software e experiência em liderar pequenos times, que compartilhem nossos valores:
+Procuramos pessoas que compartilhem nossos valores:
 
 - **Você é excelente em priorizar tarefas**. Sabe identificar o que deve ser feito primeiro, o que pode esperar, e como chegar rapidamente a uma demonstração funcional;
 - **Você inspira seus colegas a darem o seu melhor**. Dá feedbacks de forma franca e direta, incentivando seus colegas a se superarem constantemente;
