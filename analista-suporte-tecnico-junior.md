@@ -85,7 +85,6 @@ Estamos contratando no modelo de trabalho **CLT**.
 
 ## 📒 Benefícios
 
-- **Trabalho remoto!** - Você pode trabalhar de onde for mais produtivo, sem a necessidade de deslocamento para o escritório;
 - **Horário flexível** - Você pode trabalhar no horário das 06h até 22h desde que cumpra a carga horária de 08 horas por dia, e trabalhe no máximo 10 horas por dia. Sempre fazer um intervalo de no mínimo 1h;
 - **Banco de horas** - Trabalhamos no sistema de banco de horas, então, as horas trabalhadas a mais ou a menos ficam computadas para que o colaborador possa compensá-las, sempre acordando com o gestor;
 - **UnicoSkill** - Temos parceria com a plataforma de estudos UnicoSkill. Através deste benefício o colaborador consegue cursar graduações, pós-graduação, curso de idiomas, cursos livres e mentorias em renomadas instituições de ensino, pagando apenas um único valor;
